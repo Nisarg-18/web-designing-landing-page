@@ -10,12 +10,17 @@ A landing page for a web designing company made using pure HTML and CSS
 - Linear Gradients
 
 ## Time Taken for Completion
-- 3 hours
+- 3.5 hours
 
 ### Checkout the Project here : [webdesigningfirm](https://webdesigningfirm.netlify.app/)
 
 ## Output
+
+## Desktop View
 ![output](output.png)
+
+## Mobile View
+![mobile](mobile.png)
 
 Made with ❤️ by Nisarg Shah
 
